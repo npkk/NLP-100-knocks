@@ -1,0 +1,1 @@
+cut popular-names.txt -f 1 | sort | uniq > 17.log
