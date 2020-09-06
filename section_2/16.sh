@@ -1,3 +1,6 @@
+# TOO DIFFICULT BECAUSE split COMMAND DON'T HAS ROW-BASED SPLIT FUNCTION.
+
+echo "16.sh > "
 read n
-mkdir out16
-split -n $n -d popular-names.txt out16/out16-
+# in output, input 15 as n
+split -n $n -d input/popular-names.txt output/16-

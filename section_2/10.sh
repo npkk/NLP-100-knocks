@@ -1,1 +1,1 @@
-wc -l popular-names.txt
+wc -l input/popular-names.txt > output/10.log

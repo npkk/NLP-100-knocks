@@ -1,1 +1,1 @@
-paste col1.txt col2.txt -d "\t" > merged.txt
+paste output/col1.txt output/col2.txt -d "\t" > output/merged.txt

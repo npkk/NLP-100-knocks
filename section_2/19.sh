@@ -1,1 +1,1 @@
-cut -f 1 popular-names.txt | sort - | uniq -c - | sort -r - > 19.log
+cut -f 1 input/popular-names.txt | sort - | uniq -c - | sort -r - > output/19.log

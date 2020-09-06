@@ -1,8 +1,0 @@
-{'ar', 'di', 'se', 'pa', 'ap', 'is', 'ad', 'ra'}
-{'ar', 'gr', 'pa', 'ap', 'ag', 'ph', 'ra'}
-{'ar', 'di', 'se', 'gr', 'pa', 'ap', 'is', 'ag', 'ad', 'ph', 'ra'}
-{'pa', 'ra', 'ap', 'ar'}
-{'se', 'is', 'di', 'ad'}
-{'ph', 'ag', 'gr'}
-True
-False

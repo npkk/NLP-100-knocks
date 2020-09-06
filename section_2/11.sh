@@ -1,1 +1,1 @@
-sed -e 's%\t% %g' popular-names.txt > 11.log
+sed -e 's%\t% %g' input/popular-names.txt > output/11.log

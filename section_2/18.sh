@@ -1,2 +1,1 @@
-rm 18-sorted.txt
-sort -k 3nr popular-names.txt > 18-sorted.txt
+sort -k 3nr input/popular-names.txt > output/18-sorted.txt
